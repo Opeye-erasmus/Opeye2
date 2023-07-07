@@ -1,0 +1,33 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "TobiiEyetracking",
+			"Enabled": true,
+			"MarketplaceURL": "https://unrealengine.com/marketplace/en-US/slug/tobii-eye-tracking-sdk"
+		},
+		{
+			"Name": "SocketIOClient",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/slug/socket-io-client"
+		},
+		{
+			"Name": "EasyWebsockets",
+			"Enabled": false,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/4b5a7cbf6dda4b91878824a47104c596"
+		},
+		{
+			"Name": "TcpSocketPlugin",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/462c2952e71c4548ae324cb624c74aa6"
+		},
+		{
+			"Name": "EasyXMLParser",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/af98110080a4411a8eaf3b8e931b8655"
+		}
+	]
+}
